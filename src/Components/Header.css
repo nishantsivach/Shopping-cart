@@ -1,0 +1,39 @@
+.header {
+    background-color: rgb(236, 235, 235);
+    height: 90px;
+}
+
+.brandimage img {
+    height: 55px;
+
+
+}
+
+.brandimage a {
+    text-decoration: none !important;
+    color: white;
+}
+
+.carticon {
+    text-decoration: none;
+    font-size: 18px;
+
+}
+
+.carticon i {
+    padding-left: 10px;
+}
+
+.countericon {
+    background-color: red;
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+    padding-left: 6px;
+    padding-top: 2px;
+    color: white;
+    font-size: 12px;
+    top: 15px;
+    right: 63px;
+    position: absolute;
+}
